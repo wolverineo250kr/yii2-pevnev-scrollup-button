@@ -1,0 +1,23 @@
+{
+    "name": "wolverineo250kr/yii2-pevnev-scrollup-button",
+    "description": "Scroll up button for Yii2 framework",
+    "keywords": ["yii", "widget"],
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Певнев Константин Геннадьевич",
+            "email": "wolverineo250kr@yandex.ru"
+        }
+    ],
+    "type": "yii2-extension",
+    "require": {
+        "php": ">=7.0.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "wolverineo250kr\\widgets\\scrollup\\": ""
+        }
+    }
+}

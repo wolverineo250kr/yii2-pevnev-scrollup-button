@@ -1,0 +1,1 @@
+.button-up{bottom:40px;width:42px;height:42px;right:40px;display:flex;align-items:center;justify-content:center;color:#fff;position:fixed;z-index:100;cursor:pointer}.button-up:active,.button-up:hover{color:#fff}@media (max-width:768px){.button-up{bottom:25px;right:25px;right:calc(50% - 21px)}}
