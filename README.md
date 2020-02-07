@@ -9,7 +9,7 @@
 <b>colorHover</b> - String. Button color on hover (default: #000)<br/>
 <b>form</b> - String. Button form. "square" or "round" aveliable (default: round)<br/>
 <b>smooth</b> - Boolean. Button transition on hover (default: false)<br/>
-<b>faIcon</b> - String. You may use fa-icons class. (fa-chevron-up for example)Optional.<br/>
+<b>faIcon</b> - String. You may use fa-icons class (fa-chevron-up for example). Optional.<br/>
 <h2>Usage</h2>
 Paste Yii2 app following code in your view file (layouts/main.php):<br/>
 <br/>
